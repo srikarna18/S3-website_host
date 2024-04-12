@@ -22,3 +22,23 @@ S3 buckets offer several advantages, including:
       Security: S3 offers multiple security features such as encryption, access control, and audit logging.
       Performance: S3 is designed to deliver high performance for data retrieval and storage operations.
       Cost-effective: S3 offers cost-effective storage options and pricing models based on your usage patterns.
+
+
+
+Here are the steps,
+
+create a bucket
+
+upload the folder or a file to the bucket
+
+update properties by enabling static website hosting
+
+Copy and enter the url/path in new tab
+
+Surprised with the error!
+
+Now go back and allow pulic access also
+
+Go to permissions and create a bucket policy to access the website.
+
+Great, You can see the website.
