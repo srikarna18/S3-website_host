@@ -41,4 +41,7 @@ Now go back and allow pulic access also
 
 Go to permissions and create a bucket policy to access the website.
 
-Great, You can see the website.
+Great, You can see the website. here is mine
+
+![Screenshot (143)](https://github.com/srikarna18/S3-website_host/assets/141703505/a09309d9-c40d-4074-9f0f-0ffe393541e9)
+
